@@ -1,2 +1,2 @@
-# solusi_toki_pemrograman_dasar
+# Solusi_Toki_Pemrograman_dasar
 Berikut ini ialah Solusi Toki untuk pemrograman dasar
